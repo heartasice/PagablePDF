@@ -1,0 +1,4 @@
+PagablePDF
+==========
+
+UIPageViewController PDFReader
